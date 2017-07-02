@@ -1,4 +1,4 @@
-function [ ] = tema2ec()
+function [ ] = ec()
     c = 2 + 0.69;
     tfin = 10;
     
